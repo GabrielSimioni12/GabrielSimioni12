@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/156BFCA5-3951-42DD-ABC3-A3CE1F7A727F.jpeg?raw=true" width="120" style="border-radius: 50%;" alt="Gabriel Simioni"/>
+        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-24%20%C3%A0(s)%2000.14.38_b504577c.jpg?raw=true" width="120" style="border-radius: 50%;" alt="Gabriel Simioni"/>
       </td>
       <td style="padding-left: 20px;">
         <h2>Gabriel Simioni</h2>
