@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/64AA3AF2-BE9B-479A-9FAE-07F106235206.jpeg" alt="Banner Gabriel Simioni" width="100%" />
+  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/github-header-image%20(2).png?raw=true" alt="Banner Gabriel Simioni" width="100%" />
 </p>
 
 <!-- Foto com informações ao lado -->
@@ -39,7 +39,7 @@ Tenho interesse em desenvolvimento web, tecnologia, inovação e estou sempre bu
 
 ---
 
-### 🛠 Tecnologias que utilizo
+### Tecnologias que utilizo
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
