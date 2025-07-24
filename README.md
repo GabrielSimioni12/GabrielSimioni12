@@ -1,21 +1,32 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/github-header-image%20(2).png?raw=true" alt="Banner Gabriel Simioni" width="100%" />
+  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/64AA3AF2-BE9B-479A-9FAE-07F106235206.jpeg" alt="Banner Gabriel Simioni" width="100%" />
 </p>
 
-<!-- Foto e informações estilo LinkedIn -->
-<div align="left" style="display: flex; align-items: center;">
-  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/156BFCA5-3951-42DD-ABC3-A3CE1F7A727F.jpeg?raw=true" width="120" style="border-radius: 50%; margin-right: 20px;" alt="Gabriel Simioni"/>
-  <div>
-    <h2>Gabriel Simioni</h2>
-    <p>
-      📍 São Paulo - Brasil<br>
-      🎓 Ciência da Computação - FIAP<br>
-      📧 <a href="mailto:gabrielsimioniwo@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/></a>
-      &nbsp;
-      <a href="http://www.linkedin.com/in/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
-    </p>
-  </div>
+<!-- Foto com informações ao lado -->
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/156BFCA5-3951-42DD-ABC3-A3CE1F7A727F.jpeg?raw=true" width="120" style="border-radius: 50%;" alt="Gabriel Simioni"/>
+      </td>
+      <td style="padding-left: 20px;">
+        <h2>Gabriel Simioni</h2>
+        <p>
+          📍 São Paulo - Brasil<br>
+          🎓 Ciência da Computação - FIAP<br>
+          <a href="mailto:gabrielsimioniwo@gmail.com">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
+            gabrielsimioniwo@gmail.com
+          </a><br>
+          <a href="https://www.linkedin.com/in/gabrielsimioni12/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+            linkedin.com/in/gabrielsimioni12
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
