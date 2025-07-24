@@ -1,18 +1,24 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel Simioni!</h1>
 
 <p align="center">
+  <!-- Foto arredondada -->
   <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-24%20%C3%A0(s)%2000.14.38_b504577c.jpg?raw=true" alt="Gabriel Simioni" width="160" style="border-radius: 50%" />
+</p>
+
+<p align="center">
+  <b>Estudante de Ciência da Computação - FIAP 📚</b> <br/>
+  <b>São Paulo - Brasil 🇧🇷</b>
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 
-Sou um jovem desenvolvedor apaixonado por tecnologia! Tenho 18 anos, sou estudante de Ciência da Computação na FIAP e estou mergulhando no mundo da programação, especialmente na área de *front-end*, onde posso unir criatividade e código.  
+Sou um jovem desenvolvedor apaixonado por tecnologia! Tenho 18 anos, sou estudante de Ciência da Computação na FIAP e estou mergulhando no mundo da programação, especialmente na área de front-end, onde posso unir criatividade e código.  
 Curioso por natureza, estou sempre explorando novos frameworks, ferramentas e desafios!
 
 💻 Atualmente focado em:
-- HTML, CSS e *React.js*
+- HTML, CSS e React.js
 - JavaScript moderno
 - Python e lógica de programação
 - Conceitos básicos de C
@@ -51,8 +57,12 @@ Curioso por natureza, estou sempre explorando novos frameworks, ferramentas e de
 ### 📬 Contato
 
 <p align="center">
-  <a href="mailto:gabrielsimioniwo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gabrielsimioniwo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
