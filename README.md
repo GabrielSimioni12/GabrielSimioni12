@@ -24,7 +24,7 @@
           </a><br>
           <a href="https://www.linkedin.com/in/gabrielsimioni12/" style="margin-top: 10px; display: inline-block;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-            &nbsp;https://www.linkedin.com/in/gabrielsimioni22
+            &nbsp;www.linkedin.com/in/gabrielsimioni22
           </a>
         </p>
       </td>
