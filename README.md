@@ -4,13 +4,13 @@
 </p>
 
 <div align="left">
-  <table>
+  <table cellspacing="0" cellpadding="0" syle="margin: 0 auto;">
     <tr>
       <!-- Foto e informações -->
-      <td style="vertical-align: top;">
+      <td style="vertical-align: top; padding-right: 20px;">
         <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-24%20%C3%A0(s)%2000.14.38_b504577c.jpg?raw=true" 
-             width="170" 
-             style="border-radius: 50%;" 
+             width="200" 
+             style="border-radius: 12px;" 
              alt="Gabriel Simioni"/><br><br>
       </td>
       <td style="padding-left: 20px; vertical-align: top;">
@@ -29,9 +29,9 @@
         </p>
       </td>
       <!-- GIF à direita -->
-      <td style="padding-left: 40px;">
+      <td  align="center" style="vertical-align: top;">
         <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/a1c5mw%20(1).gif?raw=true" 
-             width="150" 
+             width="140" 
              alt="Avatar animado"/>
       </td>
     </tr>
