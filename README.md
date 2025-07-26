@@ -3,37 +3,40 @@
   <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/github-header-image%20(2).png?raw=true" alt="Banner Gabriel Simioni" width="100%" />
 </p>
 
-<!-- Foto com informações ao lado -->
 <div align="left">
   <table>
     <tr>
-      <td>
-        <img 
-          src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-24%20%C3%A0(s)%2000.14.38_b504577c.jpg?raw=true" 
-          width="180" 
-          style="border-radius: 50%;" 
-          alt="Gabriel Simioni"
-        />
+      <!-- Foto e informações -->
+      <td style="vertical-align: top;">
+        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-24%20%C3%A0(s)%2000.14.38_b504577c.jpg?raw=true" 
+             width="170" 
+             style="border-radius: 50%;" 
+             alt="Gabriel Simioni"/><br><br>
       </td>
-      <td style="padding-left: 25px;">
+      <td style="padding-left: 20px; vertical-align: top;">
         <h2>Gabriel Simioni</h2>
-        <p style="line-height: 1.6;">
+        <p>
           📍 São Paulo - Brasil<br>
           🎓 Ciência da Computação - FIAP<br><br>
-          <a href="mailto:gabrielsimioniwo@gmail.com" style="display: inline-flex; align-items: center; text-decoration: none;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" style="margin-right: 8px;" />
-            gabrielsimioniwo@gmail.com
+          <a href="mailto:gabrielsimioniwo@gmail.com" style="margin-bottom: 10px; display: inline-block;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
+            &nbsp;gabrielsimioniwo@gmail.com
           </a><br>
-          <a href="https://www.linkedin.com/in/gabrielsimioni12/" style="display: inline-flex; align-items: center; text-decoration: none;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="margin-right: 8px;" />
-            linkedin.com/in/gabrielsimioni12
+          <a href="https://www.linkedin.com/in/gabrielsimioni12/" style="margin-top: 10px; display: inline-block;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+            &nbsp;linkedin.com/in/gabrielsimioni12
           </a>
         </p>
+      </td>
+      <!-- GIF à direita -->
+      <td style="padding-left: 40px;">
+        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/a1c5mw%20(1).gif?raw=true" 
+             width="150" 
+             alt="Avatar animado"/>
       </td>
     </tr>
   </table>
 </div>
----
 
 ### 💡 Sobre mim
 
