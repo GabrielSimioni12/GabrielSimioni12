@@ -22,7 +22,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
             &nbsp;gabrielsimioniwo@gmail.com
           </a><br>
-          <a href="www.linkedin.com/in/gabrielsimioni22" style="margin-top: 10px; display: inline-block;">
+          <a href="https://www.linkedin.com/in/gabrielsimioni22" style="margin-top: 10px; display: inline-block;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
             &nbsp;www.linkedin.com/in/gabrielsimioni22
           </a>
