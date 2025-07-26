@@ -43,7 +43,7 @@
 Sou programador júnior com foco em *Front-end, mas com conhecimentos também em **Back-end*.  
 Atualmente curso *Ciência da Computação na FIAP*, onde participo de diversos projetos práticos e desafiadores.  
 Tenho interesse em desenvolvimento web, tecnologia, inovação e estou sempre buscando crescer na área tech. 
- <img src="" />
+ 
 
 ---
 <h3>🛠 Algumas Tecnologias que utilizo e domino!</h3>
