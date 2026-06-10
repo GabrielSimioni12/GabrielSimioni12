@@ -5,16 +5,16 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="vertical-align: top; padding-right: 20px;">
         <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/Imagem%20do%20WhatsApp%20de%202025-07-24%20%C3%A0(s)%2000.14.38_b504577c.jpg?raw=true" 
-             width="200" 
+             width="180" 
              style="border-radius: 12px;" 
-             alt="Gabriel Simioni"/><br><br>
+             alt="Gabriel Simioni"/>
       </td>
-      <td style="padding-left: 20px; vertical-align: top;">
+      <td style="padding: 0 30px; vertical-align: middle; text-align: left;">
         <h2>Gabriel Simioni</h2>
         <p>
           📍 São Paulo, Brasil<br>
@@ -30,7 +30,7 @@
           </a>
         </p>
       </td>
-      <td align="center" style="vertical-align: top; padding-left: 30px;">
+      <td align="center" style="vertical-align: middle; padding-left: 20px;">
         <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/a1c5mw%20(1).gif?raw=true" 
              width="150" 
              alt="Avatar animado"/>
@@ -61,6 +61,7 @@ Acredito que tecnologia bem feita transforma — e é isso que me move.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
 ### ⚙️ Back-end
@@ -69,6 +70,14 @@ Acredito que tecnologia bem feita transforma — e é isso que me move.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL"/>
 </p>
 
 ### 🤖 IA & Machine Learning
@@ -85,6 +94,7 @@ Acredito que tecnologia bem feita transforma — e é isso que me move.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-plain.svg" width="40" title="Excel"/>
 </p>
 
 ---
@@ -111,7 +121,7 @@ Acredito que tecnologia bem feita transforma — e é isso que me move.
 
 <div align="center">
   <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/gif.gif?raw=true" width="180" align="right"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSimioni12&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
