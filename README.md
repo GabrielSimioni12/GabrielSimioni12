@@ -20,14 +20,8 @@
           📍 São Paulo, Brasil<br/>
           🎓 Ciência da Computação — FIAP<br/>
           💼 Desenvolvedor de Software<br/><br/>
-          <a href="mailto:gabrielsimioniwo@gmail.com">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />
-            &nbsp;gabrielsimioniwo@gmail.com
-          </a><br/><br/>
-          <a href="https://www.linkedin.com/in/gabrielsimioni22">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
-            &nbsp;linkedin.com/in/gabrielsimioni22
-          </a>
+          <a href="mailto:gabrielsimioniwo@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />&nbsp;gabrielsimioniwo@gmail.com</a><br/><br/>
+          <a href="https://www.linkedin.com/in/gabrielsimioni22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />&nbsp;linkedin.com/in/gabrielsimioni22</a>
         </p>
       </td>
       <td align="center" style="padding-left: 24px; vertical-align: middle;">
@@ -45,9 +39,13 @@
 
 ## 💡 Sobre mim
 
-Sou desenvolvedor com foco em **Front-end**, criando interfaces modernas, responsivas e com boa experiência de usuário.  
-Curso **Ciência da Computação na FIAP**, onde participo de projetos práticos que envolvem desde desenvolvimento web até **Deep Learning** e simulações de missões espaciais.  
-Acredito que tecnologia bem feita transforma — e é isso que me move.
+Desenvolvedor Web, graduando em **Ciência da Computação pela FIAP**, com foco no desenvolvimento de aplicações web modernas e interfaces escaláveis.
+
+Possuo conhecimento com foco principal em **React** e **TypeScript**, além de experiência com JavaScript, HTML e CSS no desenvolvimento de aplicações responsivas, componentização, consumo de APIs e integração entre Front-end e Back-end.
+
+Também possuo conhecimento em análise e manipulação de dados utilizando **Excel**, **SQL** e bancos de dados, realizando tratamento e interpretação de informações para apoio à tomada de decisão.
+
+Tenho vivência no **setor financeiro**, agregando conhecimento de processos, dados e contexto de negócios do mercado. Perfil analítico, com aprendizado contínuo e foco em evolução técnica.
 
 ---
 
@@ -100,36 +98,34 @@ Acredito que tecnologia bem feita transforma — e é isso que me move.
 
 ---
 
+<div align="center">
+
 ## 🏆 Projetos
 
-<p>
-  <a href="https://gabrielsimioni.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfólio_Pessoal-06050f?style=for-the-badge&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+<a href="https://gabrielsimioni.dev" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfólio_Pessoal-06050f?style=for-the-badge&logoColor=white" alt="Portfólio"/>
+</a>
 
 ---
 
 ## 🎓 Formação
 
 | 🏫 Instituição | 📚 Curso | 📅 Período |
-|---|---|---|
+|:---:|:---:|:---:|
 | **FIAP** | Ciência da Computação | 2024 – 2028 |
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/gif.gif?raw=true" width="180" align="right"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSimioni12&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
+<img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/gif.gif?raw=true" width="180" align="right"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSimioni12&layout=compact&theme=tokyonight&langs_count=8"/>
 
-<br clear="right"/>
+<br clear="right"/><br/>
 
 ---
 
-<div align="center">
-  <i>✨ "Código limpo não é escrito seguindo regras. É escrito por alguém que se importa." — Robert C. Martin</i>
+*✨ "Código limpo não é escrito seguindo regras. É escrito por alguém que se importa." — Robert C. Martin*
+
 </div>
